@@ -9,10 +9,12 @@ li{
     margin: 2%;
     color:maroon;
     font-weight: 900;
-    font:italic;
+    
+   
 }
 li>button{
-    margin-left:4%
+    margin-left:4%;
+    
 }
 button{
     border:maroon;
@@ -26,4 +28,12 @@ button{
 
 input{
     color: maroon;
+}
+
+
+
+
+.row{
+    
+    margin-right:15% ;
 }
